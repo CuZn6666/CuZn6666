@@ -8,7 +8,7 @@
 
 **Computer Science @ Heidelberg University · Germany**
 
-**My Profile Page:** https://cuzn6666.github.io/#work
+**My Profile Page:** https://cuzn6666.github.io
 
 **Career direction:** C++ Software Engineer · Machine Learning Engineer · Quantitative Developer (Low-Latency / HFT)
 

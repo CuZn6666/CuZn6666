@@ -1,0 +1,31 @@
+{
+  "username": "CuZn6666",
+  "retrieved_at": "2026-11-22T15:42:01.908602+00:00",
+  "source": "https://api.github.com/users/CuZn6666/repos",
+  "public_repositories": 4,
+  "project_repositories": 3,
+  "stars_on_owned_public_repositories": 2,
+  "project_definition": "Owned public non-fork repositories, excluding the profile repository",
+  "repositories": [
+    {
+      "name": "cnn_adversarial_gradcam_cifar10",
+      "stars": 1,
+      "fork": false
+    },
+    {
+      "name": "CuZn6666",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "Product-Integration-Studio",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "structured-web-crawling",
+      "stars": 1,
+      "fork": false
+    }
+  ]
+}

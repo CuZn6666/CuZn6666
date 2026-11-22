@@ -8,6 +8,8 @@
 
 **Computer Science @ Heidelberg University · Germany**
 
+**My Profile Page:** https://cuzn6666.github.io/#work
+
 **Career direction:** C++ Software Engineer · Machine Learning Engineer · Quantitative Developer (Low-Latency / HFT)
 
 I'm a B.Sc. Computer Science student, graduating in **2027**, with **C++ as my primary language**. I enjoy turning algorithms and numerical methods into clear, testable software—and understanding where the time goes when it runs. My interests connect systems programming, machine learning, and performance engineering, with a long-term focus on HPC, ML systems, and quantitative finance.
